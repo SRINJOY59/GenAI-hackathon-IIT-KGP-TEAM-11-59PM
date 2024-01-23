@@ -2,6 +2,8 @@
 
 This repository contains implementations of various Natural Language Processing (NLP) models and applications for question-answering, image description generation, stable diffusion, PDF question answering, and CSV question answering. These models leverage Mistral API, IDEFICS 9B, Stable Diffusion, Google Gemini API, RAG, and Google TAPAS.
 
+<h3>The demo videos are uploaded as mp4 format, download to watch it.</h3>
+
 <h1>Models and Implementations:</h1>
 
 <h2>Mistral API for General Question Answering:</h2>
