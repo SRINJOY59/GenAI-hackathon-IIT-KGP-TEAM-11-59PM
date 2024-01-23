@@ -35,7 +35,7 @@ The Stable Diffusion model, with its ability to generate high-quality images, fi
 
 Overall, this code showcases the integration of Stable Diffusion models into a pipeline for image generation, providing a versatile tool for users interested in harnessing state-of-the-art generative models for creative or practical purposes.
 
-<h2>PDF Question Answering using Google Gemini API and RAG:</h2>
+<h2>PDF Question Answering using Google Gemini API and implementation of RAG:</h2>
 
 A comprehensive pipeline for question-answering from a PDF document is implemented, leveraging various libraries and services. Let's break down the key components:
 
@@ -45,7 +45,7 @@ A comprehensive pipeline for question-answering from a PDF document is implement
    - Go to the website:  https://makersuite.google.com/app/apikey  ( First sign in and then you will be able to create API key )
 
 2. **Installation of Dependencies:**
-   - Requirements from a specified file are installed using the pip package manager. This requirements.txt is provided in the respected folder.
+   - Requirements from a specified file are installed using the pip package manager. This requirements.txt is provided in this repository.
 
 3. **PDF Processing:**
    - The PyPDF2 library is used to extract text from a PDF file. The extracted text is then divided into manageable chunks using a RecursiveCharacterTextSplitter.
