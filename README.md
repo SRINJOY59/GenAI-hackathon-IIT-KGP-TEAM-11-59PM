@@ -1,4 +1,4 @@
-**Question Answering and Text Generation Repository**
+<h1>**Question Answering and Text Generation Repository**</h1>
 
 This repository contains implementations of various Natural Language Processing (NLP) models and applications for question-answering, image description generation, stable diffusion, PDF question answering, and CSV question answering. These models leverage Mistral API, IDEFICS 9B, Stable Diffusion, Google Gemini API, RAG, and Google TAPAS.
 
